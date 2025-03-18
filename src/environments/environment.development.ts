@@ -1,3 +1,3 @@
 export const environment = {
-    API_URL:"prod.api.com/api"
+    API_URL:"https://projectapi.gerasim.in/api/FreelancerJobs/"
 };
